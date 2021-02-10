@@ -1,4 +1,4 @@
-import './App.css';
+import './styles/main.scss';
 import Nav from './nav/nav';
 import Landing from './landing/landing';
 import Services from './services/services';
