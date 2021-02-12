@@ -14,10 +14,10 @@ function App() {
       </div>
       <Nav />
       <Landing />
-      
+      <About />
+      {/* <div class="break"></div> */}
       <Services />
       <Appointments />
-      <About />
     </div>
   );
 }
