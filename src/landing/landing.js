@@ -11,7 +11,7 @@ function Landing() {
         </div>
       </div>
       <div className="landing-image">
-        <div class="shadow"></div>
+        <div className="shadow"></div>
       </div>
     </section>
   )
