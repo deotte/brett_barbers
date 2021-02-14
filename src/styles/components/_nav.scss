@@ -3,21 +3,23 @@ nav {
   height: 60px;
   position: absolute;
   display: flex;
-  background-color: #ffffff;
+  // background-color: rgba(255, 255, 255, .75);
   z-index: 2;
-  border-bottom: 1px solid #cecece;
+  background-color: #ffffff;
 
   .links {
     height: 100%;
     display: flex;
     width: 600px;
-    margin-left: 250px;
+    margin-left: 200px;
 
     a {
       margin: auto;
       // text-decoration: underline;
       text-decoration-thickness: .15rem;
       text-underline-offset: .5rem;
+      // color: #ffffff;
+      // text-decoration-color: #ffffff;
     }
 
     a:hover {

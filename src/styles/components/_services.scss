@@ -1,6 +1,6 @@
 .services {
   height: 750px;
-  // border-top: 1px solid #cecece;
+  border-top: 1px solid #cecece;
   border-bottom: 1px solid #cecece;
 }
 
@@ -29,6 +29,7 @@
   p {
     margin-top: 2.5rem;
     width: 75%;
+    line-height: 1.5rem;
   }
 
   hr {
@@ -39,11 +40,12 @@
 
   button {
     padding: 1rem;
-    width: 35%;
+    width: 40%;
     border: 1px solid $primary-color;
     background-color: $primary-color;
     border-radius: .5rem;
     color: #ffffff;
+    margin-top: 3rem;
   }
 }
 
