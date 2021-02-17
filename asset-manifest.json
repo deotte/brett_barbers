@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/brett_barbers/static/css/main.e4c155cc.chunk.css",
+    "main.js": "/brett_barbers/static/js/main.3a91a87f.chunk.js",
+    "main.js.map": "/brett_barbers/static/js/main.3a91a87f.chunk.js.map",
+    "runtime-main.js": "/brett_barbers/static/js/runtime-main.b50b35c6.js",
+    "runtime-main.js.map": "/brett_barbers/static/js/runtime-main.b50b35c6.js.map",
+    "static/js/2.dd0f809d.chunk.js": "/brett_barbers/static/js/2.dd0f809d.chunk.js",
+    "static/js/2.dd0f809d.chunk.js.map": "/brett_barbers/static/js/2.dd0f809d.chunk.js.map",
+    "static/js/3.d7ac703f.chunk.js": "/brett_barbers/static/js/3.d7ac703f.chunk.js",
+    "static/js/3.d7ac703f.chunk.js.map": "/brett_barbers/static/js/3.d7ac703f.chunk.js.map",
+    "index.html": "/brett_barbers/index.html",
+    "static/css/main.e4c155cc.chunk.css.map": "/brett_barbers/static/css/main.e4c155cc.chunk.css.map",
+    "static/js/2.dd0f809d.chunk.js.LICENSE.txt": "/brett_barbers/static/js/2.dd0f809d.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/brett_barbers/static/media/two.0b1c0c05.jpg",
+    "static/media/logo_landscape_double.c48959c6.jpg": "/brett_barbers/static/media/logo_landscape_double.c48959c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50b35c6.js",
+    "static/js/2.dd0f809d.chunk.js",
+    "static/css/main.e4c155cc.chunk.css",
+    "static/js/main.3a91a87f.chunk.js"
+  ]
+}
