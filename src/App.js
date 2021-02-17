@@ -10,12 +10,11 @@ function App() {
   return (
     <div className="app-wrapper">
       <div className="logo">
-        <img src={logo}></img>
+        <img src={logo} alt="Fit for a king logo"></img>
       </div>
       <Nav />
       <Landing />
       <About />
-      {/* <div class="break"></div> */}
       <Services />
       <Appointments />
     </div>

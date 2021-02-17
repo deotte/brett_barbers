@@ -1,0 +1,152 @@
+.appointments {
+  flex-direction: column;
+}
+
+.content-wrapper {
+  width: 100%;
+  flex-grow: 1;
+  display: flex;
+
+  .text-container {
+    width: 40%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    h2 {
+      margin-bottom: 1rem;
+    }
+
+    hr {
+      width: 125px;
+      border-color: $primary-color;
+      margin-bottom: 2rem;
+    }
+
+    h2, hr, .contact-method, p, a {
+      margin-left: 7.5rem;
+      margin-right: auto;
+    }
+
+    p {
+      margin-bottom: 1rem;
+      line-height: 2rem;
+    }
+
+    .contact-method {
+      height: 50px;
+      margin-top: 1rem;
+      display: flex;
+      align-items: center;
+
+      .right {
+        margin-left: 1rem;
+      }
+    }
+
+    .top {
+      margin-top: 3rem;
+    }
+
+    .bottom {
+      margin-top: 1.5rem;
+    }
+
+    a {
+      display: flex;
+      width: 40%;
+      padding: .5rem;
+      border: 1px solid $primary-color;
+      background-color: $primary-color;
+      border-radius: .5rem;
+      color: #ffffff;
+
+      span {
+        margin: auto;
+      }
+
+      .right {
+        margin-left: 1rem;
+      }
+    }
+  }
+
+  .social-container {
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.instagram-pictures {
+  width: 900px;
+  height: 75%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  .picture {
+    width: 200px;
+    height: 200px;
+    margin: .5rem;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+.one {
+  background-image: url("../../images/one.jpg");
+}
+
+.two {
+  background-image: url("../../images/two.jpg");
+}
+
+.three {
+  background-image: url("../../images/three.jpg");
+}
+
+.four {
+  background-image: url("../../images/four.jpg");
+}
+
+.five {
+  background-image: url("../../images/five.jpg");
+}
+
+.six {
+  background-image: url("../../images/six.jpg");
+}
+
+.seven {
+  background-image: url("../../images/seven.jpg");
+}
+
+.eight {
+  background-image: url("../../images/eight.jpg");
+}
+
+.nine {
+  background-image: url("../../images/nine.jpg");
+}
+
+.ten {
+  background-image: url("../../images/ten.jpg");
+}
+
+.eleven {
+  background-image: url("../../images/eleven.jpg");
+}
+
+.twelve {
+  background-image: url("../../images/twelve.jpg");
+}

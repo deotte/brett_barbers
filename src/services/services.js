@@ -13,32 +13,32 @@ function Services() {
         <div className="services-content">
           <div className="service">
             <h3>Haircut</h3>
-            <h3 className="dots">...............................................</h3>
+            <h3 className="dots">.....................................................................</h3>
             <h3 className="color">$ 20</h3>
           </div>
           <div className="service">
             <h3>Kid's Haircut</h3>
-            <h3 className="dots">.......................................</h3>
+            <h3 className="dots">............................................................</h3>
             <h3 className="color">$ 15</h3>
           </div>
           <div className="service">
             <h3>Buzzcut</h3>
-            <h3 className="dots">...............................................</h3>
+            <h3 className="dots">....................................................................</h3>
             <h3 className="color">$ 15</h3>
           </div>
           <div className="service">
             <h3>Beard & Neck Trim</h3>
-            <h3 className="dots">..............................</h3>
+            <h3 className="dots">..................................................</h3>
             <h3 className="color">$ 10</h3>
           </div>
           <div className="service">
             <h3>Straight Razor Shave</h3>
-            <h3 className="dots">..........................</h3>
+            <h3 className="dots">...............................................</h3>
             <h3 className="color">$ 20</h3>
           </div>
           <div className="service">
             <h3>Special Cut</h3>
-            <h3 className="dots">..........................................</h3>
+            <h3 className="dots">...............................................................</h3>
             <h3 className="color">$ 25</h3>
           </div>
         </div>
